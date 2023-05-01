@@ -11,7 +11,7 @@ In this project user will able to paste the Ui Schema following the specific for
 Paste the Json (specified format).
 Press enter after data is entered.
 
-\*\*the Ui Generator works on the specified json.
+**the Ui Generator works on the specified json.**
 
 ### WHAT YOU WILL GET
 
