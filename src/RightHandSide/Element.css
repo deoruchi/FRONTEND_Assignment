@@ -1,0 +1,12 @@
+.ui-display {
+  width: 50vw;
+  height: 100vh;
+  overflow: scroll;
+}
+
+.area-formation {
+}
+
+.label-select {
+  margin-right: 3%;
+}
